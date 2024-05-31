@@ -25,4 +25,10 @@ implementation 'com.google.guava:guava:29.0-jre'
 testImplementation 'junit:junit:4.13'
 }
 
-Selamat Berkreasi !
+
+
+Me run Project pada terminal dengan cara :
+"./gradlew greetingTask -Pname=Fadhli"
+
+hasil run capture :
+https://github.com/fadlifadli/gradle/tree/master/src/gradle.jpg
